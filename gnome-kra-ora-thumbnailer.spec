@@ -2,7 +2,7 @@ Summary:	Thumbnailer for Krita and MyPaint images
 Summary(pl.UTF-8):	Generator miniaturek do obrazów Krity i MyPainta
 Name:		gnome-kra-ora-thumbnailer
 Version:	1.4
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		X11/Applications/Graphics
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-kra-ora-thumbnailer/1.4/%{name}-%{version}.tar.xz
